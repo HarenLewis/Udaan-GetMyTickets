@@ -1,0 +1,1 @@
+from .resource_history_test import ResourceHistoryApiViewTestCase
